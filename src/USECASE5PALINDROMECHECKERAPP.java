@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class PALINDROME5 {
+public class PALINDROMECHECKERAPPUSECASE5 {
 
     public static void main(String[] args) {
 
