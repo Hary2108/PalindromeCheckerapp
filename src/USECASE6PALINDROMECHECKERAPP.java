@@ -2,7 +2,7 @@ import java.util.Queue;
 import java.util.LinkedList;
 import java.util.Stack;
 
-public class USECASE6 {
+public class USECASE6p {
 
     public static void main(String[] args) {
 
