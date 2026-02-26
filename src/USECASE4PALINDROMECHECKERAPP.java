@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class USECASE4 {
+public class USECASE3PALINDROMECHECKERAPP {
 
     public static void main(String[] args) {
 
