@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class USECASE5 {
+public class PALINDROME5 {
 
     public static void main(String[] args) {
 
