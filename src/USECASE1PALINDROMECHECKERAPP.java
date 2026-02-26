@@ -1,7 +1,7 @@
 
 // Palindrome Checker App
 
-public class USECASE1 {
+public class USECASE1PALINDROMECHECKERAPP {
 
     // Application constants
     static final String APP_NAME = "Palindrome Checker App";
