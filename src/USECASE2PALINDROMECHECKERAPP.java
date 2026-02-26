@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class USECASE2{
+public class PALINDROMECHECKERAPP{
 
     public static void main(String[] args) {
 
